@@ -1,4 +1,4 @@
-# FRontent Assessment
+# Frontend Assessment
 
 This Solidity program is a simple contract called FrontendAssessment with four (4) functions. The values of these functions are accessible on the frontend of the application, illustrating the basic syntax and functionality of the Solidity programming language.
 
