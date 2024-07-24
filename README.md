@@ -1,4 +1,4 @@
-# Function Assessment
+# FRontent Assessment
 
 This Solidity program is a simple contract called FrontendAssessment with four (4) functions. The values of these functions are accessible on the frontend of the application, illustrating the basic syntax and functionality of the Solidity programming language.
 
@@ -23,13 +23,9 @@ To run the code on your local machine, follow these steps after cloning the GitH
 
 ## Authors
 
-- Adekunle Stephen Omorotimi
+- John Wainaina
 
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE.md` file for details.
 
-
-## Video-link
-
-Video walk through can be found at: https://www.loom.com/share/5c8a17d12fef4a2ea670accd49c49f62?sid=6ec0e064-d68a-4d74-8143-35aeea7cdd15
