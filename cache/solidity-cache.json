@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/adekunle/Documents/workspace/metacrafter/metacrafter_function_frontend/contracts/FrontendAssessment.sol": {
+      "lastModificationDate": 1712526418956,
+      "contentHash": "c61f308ae81d349e238e17a0cb26b10b",
+      "sourceName": "contracts/FrontendAssessment.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "FrontendAssessment"
+      ]
+    }
+  }
+}
